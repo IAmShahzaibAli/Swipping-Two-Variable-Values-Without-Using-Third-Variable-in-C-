@@ -1,5 +1,4 @@
-# Swipping-Two-Variable-Values-Without-Using-Third-Variable-in-C-
-Swapping Two Variable Values Without Using Third Variable in C++ With CodeBlock (IDE)
+# Swipping-Two-Variables
 
 # Subject 
     Programming Fundamental (First Semester)
